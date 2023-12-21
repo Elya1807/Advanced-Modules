@@ -15,4 +15,5 @@ else:
     sys.stderr.write("Lütfen doğru rakam girin..")
     sys.stderr.flush()
 
+    # 1. check
     
