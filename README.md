@@ -4,5 +4,3 @@ Python
 ## Check
 
 desc1
-
-1. check
